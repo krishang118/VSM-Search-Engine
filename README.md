@@ -18,7 +18,7 @@ These enhancements improve the search quality and query handling:
 - Synonym Expansion: Query terms are expanded using WordNet synonyms to increase recall.
 - Spell Correction: Misspelled query terms are corrected using string similarity.
 - Highlighting Results: Matching terms in document snippets are highlighted in the output.
-
+ 
 ## How to Run
 
 1. Make sure Python 3.8+ is installed.
